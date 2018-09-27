@@ -1,0 +1,16 @@
+Source File: 'P:\Engineering\PROGRAMS\P_Imagery\Projects\MSP\Releases\MSP 1.3\GeoTrans\GT3.4_dev_kit\geotrans3.4\SpreadsheetTester\TestFiles\inputs\upsToMgrs_psn_we.txt'
+Output File: 'P:\Engineering\PROGRAMS\P_Imagery\Projects\MSP\Releases\MSP 1.3\GeoTrans\GT3.4_dev_kit\geotrans3.4\SpreadsheetTester\TestFiles\outputs\output\upsToMgrs_psn_we.txt'
+Display Warnings: '1'
+
+
+
+Results: 
+
+	Successful
+		Equivalent Results	31 
+		Different Results	0 
+	Warnings
+		Equivalent Results	0 
+		Different Results	0 
+	Errors (No Results)		0 
+	Total Test Cases		31 
